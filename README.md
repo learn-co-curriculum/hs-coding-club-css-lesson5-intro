@@ -10,6 +10,6 @@ You're going to be tackling the lesson `Arrange Your Dorm Posters With Box Model
 
 ## Share Share Share!
 
-We love to see your progress! When you finish `Arrange Your Dorm Posters With Box Model`, screen shot your organized and styled dorm posters or code and share with **\#flatironcodeclub** and **\#dormposter**.
+We love to see your progress! When you finish `Arrange Your Dorm Posters With Box Model`, screenshot your organized and styled dorm posters or code and share with **\#flatironcodeclub** and **\#dormposter**.
 
 Finished `Flags From Around The World`? Screen shot some flags or your code and share with **\#flatironcodeclub** and **\#cssflags**.
