@@ -13,3 +13,8 @@ You're going to be tackling the lesson `Arrange Your Dorm Posters With Box Model
 We love to see your progress! When you finish `Arrange Your Dorm Posters With Box Model`, screenshot your organized and styled dorm posters or code and share with **\#flatironcodeclub** and **\#dormposter**.
 
 Finished `Flags From Around The World`? Screen shot some flags or your code and share with **\#flatironcodeclub** and **\#cssflags**.
+
+
+## Tech News
+
+If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
