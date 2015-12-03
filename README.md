@@ -15,7 +15,4 @@ We love to see your progress! When you finish `Arrange Your Dorm Posters With Bo
 Finished `Flags From Around The World`? Screen shot some flags or your code and share with **\#flatironcodeclub** and **\#cssflags**.
 
 
-## Tech News
-
-If you're participating in the Tech News talks each week, take a minute to pull up the headlines and discuss the questions with the other club members.
 <a href='https://learn.co/lessons/hs-coding-club-css-lesson5-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
