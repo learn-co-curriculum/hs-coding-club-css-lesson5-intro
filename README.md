@@ -15,4 +15,4 @@ We love to see your progress! When you finish `Arrange Your Dorm Posters With Bo
 Finished `Flags From Around The World`? Screen shot some flags or your code and share with **\#flatironcodeclub** and **\#cssflags**.
 
 
-<a href='https://learn.co/lessons/hs-coding-club-css-lesson5-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-coding-club-css-lesson5-intro' title='Let's Get Coding!'>Let's Get Coding!</a> on Learn.co and start learning to code for free.</p>
